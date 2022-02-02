@@ -1,0 +1,1 @@
+This is the first program that I ever wrote (I just never happened to upload it to GitHub until now). Like any "magic" 8-ball, you provide input (hopefully in the form of a question), shake the magic 8-ball (press Enter), and it spits out a pseudo-random outcome that you should probably take with a grain of salt.
